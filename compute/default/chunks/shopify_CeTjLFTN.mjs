@@ -1,6 +1,6 @@
 import '@shopify/shopify-api/adapters/web-api';
 import { shopifyApi, ApiVersion } from '@shopify/shopify-api';
-import { s as siteDomains } from './siteDomains_DTeNgojN.mjs';
+import { s as siteDomains } from './siteDomains_DL64WWvM.mjs';
 
 function createShopify() {
   console.log("CREATING SHOPIFY INSTANCE");

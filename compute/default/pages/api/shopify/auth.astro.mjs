@@ -1,4 +1,4 @@
-import { c as createShopify } from '../../../chunks/shopify_Bko1Ylsk.mjs';
+import { c as createShopify } from '../../../chunks/shopify_CeTjLFTN.mjs';
 export { renderers } from '../../../renderers.mjs';
 
 const prerender = false;
