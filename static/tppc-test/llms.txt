@@ -1,0 +1,36 @@
+﻿# The Pure Plant Company®
+
+## Description
+Plant-based, pharmaceutical-grade supplements. ISO/IEC 17025 accredited manufacturing.
+
+## Site structure
+
+### Homepage (/)
+- Company overview
+- Product showcase
+- Quality certifications
+- Access to lab testing certificates
+
+### Products (/products)
+- PurePlantD3® - Vegan vitamin D3 from pine trees
+- Serophan® - 5-HTP supplement
+- Neurozine® - Huperzine-A supplement
+- Product bundles
+
+### Science (/vitamind3truth)
+- Vitamin D3 sourcing (plant vs lanolin/sheep grease)
+- Molecular structure information
+- Purity standards
+
+### Quality (/quality)
+- ISO/IEC 17025 accreditation details
+- Manufacturing standards
+- Third-party lab testing results and certificates
+
+### Professional (/professional)
+- B2B portal for medical practitioners
+- Wholesale information
+
+### About (/about)
+- Company mission
+- Brand story

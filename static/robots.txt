@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Disallow: /professional
+Disallow: /api
+
+Sitemap: https://www.main.d2o67etau3ak8h.amplifyapp.com/sitemap.xml
+
+Host: www.main.d2o67etau3ak8h.amplifyapp.com
